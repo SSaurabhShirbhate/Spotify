@@ -42,8 +42,3 @@ Contributions are welcome! Whether you're interested in adding new features, fix
 
 If you find this project useful and enjoyable, please consider giving it a star on GitHub to show your support. Additionally, don't forget to check out my GitHub profile for more exciting projects and collaborations.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
